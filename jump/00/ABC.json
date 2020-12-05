@@ -1,0 +1,475 @@
+{
+ "cwbopendata": {
+  "@xmlns": "urn:cwb:gov:tw:cwbcommon:0.1",
+  "identifier": "c6ebdf72-e8fc-4fe2-a959-b06802debb90",
+  "sender": "weather@cwb.gov.tw",
+  "sent": "2020-05-13T10:38:05+08:00",
+  "status": "Actual",
+  "msgType": "Issue",
+  "dataid": "CWB_A0001",
+  "scope": "Public",
+  "dataset": null,
+  "location": [
+   {
+    "lat": "25.035950",
+    "lon": "121.611456",
+    "lat_wgs84": "25.0341638888889",
+    "lon_wgs84": "121.619680555556",
+    "locationName": "國三南深路交流道",
+    "stationId": "CM0010",
+    "time": {
+     "obsTime": "2020-05-13T10:00:00+08:00"
+    },
+    "weatherElement": [
+     {
+      "elementName": "ELEV",
+      "elementValue": {
+       "value": "68.0"
+      }
+     },
+     {
+      "elementName": "WDIR",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "WDSD",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "TEMP",
+      "elementValue": {
+       "value": "26.0"
+      }
+     },
+     {
+      "elementName": "HUMD",
+      "elementValue": {
+       "value": "0.64"
+      }
+     },
+     {
+      "elementName": "PRES",
+      "elementValue": {
+       "value": "1008.5"
+      }
+     },
+     {
+      "elementName": "H_24R",
+      "elementValue": {
+       "value": "0.0"
+      }
+     },
+     {
+      "elementName": "H_FX",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_XD",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_FXT",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "D_TX",
+      "elementValue": {
+       "value": "26.30"
+      }
+     },
+     {
+      "elementName": "D_TXT",
+      "elementValue": {
+       "value": "2020-05-13T09:50:00+08:00"
+      }
+     },
+     {
+      "elementName": "D_TN",
+      "elementValue": {
+       "value": "21.70"
+      }
+     },
+     {
+      "elementName": "D_TNT",
+      "elementValue": {
+       "value": "2020-05-13T05:40:00+08:00"
+      }
+     }
+    ],
+    "parameter": [
+     {
+      "parameterName": "CITY",
+      "parameterValue": "臺北市"
+     },
+     {
+      "parameterName": "CITY_SN",
+      "parameterValue": "01"
+     },
+     {
+      "parameterName": "TOWN",
+      "parameterValue": "南港區"
+     },
+     {
+      "parameterName": "TOWN_SN",
+      "parameterValue": "035"
+     }
+    ]
+   },
+   {
+    "lat": "23.516064",
+    "lon": "120.221625",
+    "lat_wgs84": "23.5143194444444",
+    "lon_wgs84": "120.229736111111",
+    "locationName": "蔦松",
+    "stationId": "C0K550",
+    "time": {
+     "obsTime": "2020-05-13T10:00:00+08:00"
+    },
+    "weatherElement": [
+     {
+      "elementName": "ELEV",
+      "elementValue": {
+       "value": "15.0"
+      }
+     },
+     {
+      "elementName": "WDIR",
+      "elementValue": {
+       "value": "211"
+      }
+     },
+     {
+      "elementName": "WDSD",
+      "elementValue": {
+       "value": "1.0"
+      }
+     },
+     {
+      "elementName": "TEMP",
+      "elementValue": {
+       "value": "30.4"
+      }
+     },
+     {
+      "elementName": "HUMD",
+      "elementValue": {
+       "value": "0.63"
+      }
+     },
+     {
+      "elementName": "PRES",
+      "elementValue": {
+       "value": "1012.0"
+      }
+     },
+     {
+      "elementName": "H_24R",
+      "elementValue": {
+       "value": "0.0"
+      }
+     },
+     {
+      "elementName": "H_FX",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_XD",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_FXT",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "D_TX",
+      "elementValue": {
+       "value": "30.70"
+      }
+     },
+     {
+      "elementName": "D_TXT",
+      "elementValue": {
+       "value": "2020-05-13T09:40:00+08:00"
+      }
+     },
+     {
+      "elementName": "D_TN",
+      "elementValue": {
+       "value": "23.50"
+      }
+     },
+     {
+      "elementName": "D_TNT",
+      "elementValue": {
+       "value": "2020-05-13T03:50:00+08:00"
+      }
+     }
+    ],
+    "parameter": [
+     {
+      "parameterName": "CITY",
+      "parameterValue": "雲林縣"
+     },
+     {
+      "parameterName": "CITY_SN",
+      "parameterValue": "16"
+     },
+     {
+      "parameterName": "TOWN",
+      "parameterValue": "水林鄉"
+     },
+     {
+      "parameterName": "TOWN_SN",
+      "parameterValue": "204"
+     }
+    ]
+   },
+   {
+    "lat": "23.269517",
+    "lon": "120.117367",
+    "lat_wgs84": "23.2677722222222",
+    "lon_wgs84": "120.125480555556",
+    "locationName": "北門",
+    "stationId": "C0X290",
+    "time": {
+     "obsTime": "2020-05-13T10:00:00+08:00"
+    },
+    "weatherElement": [
+     {
+      "elementName": "ELEV",
+      "elementValue": {
+       "value": "10.0"
+      }
+     },
+     {
+      "elementName": "WDIR",
+      "elementValue": {
+       "value": "283"
+      }
+     },
+     {
+      "elementName": "WDSD",
+      "elementValue": {
+       "value": "1.2"
+      }
+     },
+     {
+      "elementName": "TEMP",
+      "elementValue": {
+       "value": "28.3"
+      }
+     },
+     {
+      "elementName": "HUMD",
+      "elementValue": {
+       "value": "0.71"
+      }
+     },
+     {
+      "elementName": "PRES",
+      "elementValue": {
+       "value": "1012.5"
+      }
+     },
+     {
+      "elementName": "H_24R",
+      "elementValue": {
+       "value": "0.0"
+      }
+     },
+     {
+      "elementName": "H_FX",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_XD",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_FXT",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "D_TX",
+      "elementValue": {
+       "value": "28.30"
+      }
+     },
+     {
+      "elementName": "D_TXT",
+      "elementValue": {
+       "value": "2020-05-13T10:00:00+08:00"
+      }
+     },
+     {
+      "elementName": "D_TN",
+      "elementValue": {
+       "value": "25.00"
+      }
+     },
+     {
+      "elementName": "D_TNT",
+      "elementValue": {
+       "value": "2020-05-13T03:50:00+08:00"
+      }
+     }
+    ],
+    "parameter": [
+     {
+      "parameterName": "CITY",
+      "parameterValue": "臺南市"
+     },
+     {
+      "parameterName": "CITY_SN",
+      "parameterValue": "04"
+     },
+     {
+      "parameterName": "TOWN",
+      "parameterValue": "北門區"
+     },
+     {
+      "parameterName": "TOWN_SN",
+      "parameterValue": "237"
+     }
+    ]
+   },
+   {
+    "lat": "23.149036",
+    "lon": "120.078164",
+    "lat_wgs84": "23.1472888888889",
+    "lon_wgs84": "120.086252777778",
+    "locationName": "七股",
+    "stationId": "C0X310",
+    "time": {
+     "obsTime": "2020-05-13T10:00:00+08:00"
+    },
+    "weatherElement": [
+     {
+      "elementName": "ELEV",
+      "elementValue": {
+       "value": "9.0"
+      }
+     },
+     {
+      "elementName": "WDIR",
+      "elementValue": {
+       "value": "316"
+      }
+     },
+     {
+      "elementName": "WDSD",
+      "elementValue": {
+       "value": "2.7"
+      }
+     },
+     {
+      "elementName": "TEMP",
+      "elementValue": {
+       "value": "27.6"
+      }
+     },
+     {
+      "elementName": "HUMD",
+      "elementValue": {
+       "value": "0.73"
+      }
+     },
+     {
+      "elementName": "PRES",
+      "elementValue": {
+       "value": "1013.5"
+      }
+     },
+     {
+      "elementName": "H_24R",
+      "elementValue": {
+       "value": "0.0"
+      }
+     },
+     {
+      "elementName": "H_FX",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_XD",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "H_FXT",
+      "elementValue": {
+       "value": "-99"
+      }
+     },
+     {
+      "elementName": "D_TX",
+      "elementValue": {
+       "value": "27.60"
+      }
+     },
+     {
+      "elementName": "D_TXT",
+      "elementValue": {
+       "value": "2020-05-13T10:00:00+08:00"
+      }
+     },
+     {
+      "elementName": "D_TN",
+      "elementValue": {
+       "value": "24.80"
+      }
+     },
+     {
+      "elementName": "D_TNT",
+      "elementValue": {
+       "value": "2020-05-13T01:40:00+08:00"
+      }
+     }
+    ],
+    "parameter": [
+     {
+      "parameterName": "CITY",
+      "parameterValue": "臺南市"
+     },
+     {
+      "parameterName": "CITY_SN",
+      "parameterValue": "04"
+     },
+     {
+      "parameterName": "TOWN",
+      "parameterValue": "七股區"
+     },
+     {
+      "parameterName": "TOWN_SN",
+      "parameterValue": "253"
+     }
+    ]
+   }
+  ]
+ }
+}
